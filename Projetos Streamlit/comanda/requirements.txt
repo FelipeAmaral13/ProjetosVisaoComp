@@ -497,7 +497,7 @@ tzlocal==1.5.1
 Unidecode==0.4.21
 uritemplate==3.0.1
 uritemplate.py==3.0.2
-urllib3==1.25.9
+urllib3==1.26.5
 us==2.0.2
 utils==1.0.1
 uvicorn==0.14.0
