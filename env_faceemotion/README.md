@@ -1,0 +1,2 @@
+# Projeto Detecção de Emoções
+

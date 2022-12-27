@@ -1,0 +1,9 @@
+.idea
+__pycache__/
+ *.pyc
+ *.rar
+/Lib
+/Scripts
+pyvenv.cfg
+/Include
+/share
