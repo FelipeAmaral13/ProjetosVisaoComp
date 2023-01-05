@@ -163,7 +163,7 @@ class FaceEmotion:
 if __name__ == "__main__":
     face = FaceEmotion()
     # face.plot_all_emotions()
-    # face.cnn_fit(batch_size=32, epochs=2)
+    face.cnn_fit(batch_size=32, epochs=50)
     face.plot_metrics()
     face.plot_confusion_matrix()
     
