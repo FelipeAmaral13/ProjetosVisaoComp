@@ -2,6 +2,9 @@
 
 Este é um aplicativo simples de webcam que utiliza as bibliotecas OpenCV e dlib para realizar a detecção dos pontos de referência faciais e calcular a Razão de Aspecto do Olho (EAR) em tempo real. O aplicativo exibe o vídeo da webcam com o valor do EAR calculado e emite um alerta caso seja detectado sono.
 
+![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/FelipeAmaral13/ProjetosVisaoComp/assets/5797933/0d9c1461-9a25-4f87-9848-24a5af08342e)
+
+
 ## Pré-requisitos
 
 Antes de executar o aplicativo, certifique-se de ter as seguintes dependências instaladas:
