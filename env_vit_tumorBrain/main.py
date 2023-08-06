@@ -4,8 +4,8 @@ import random
 from vit_finetune import ViTFinetune
 import matplotlib.pyplot as plt
 
-data_dir = os.path.join('kaggle\treino')
-val_dir = os.path.join('kaggle\valid')
+data_dir = os.path.join('kaggle', 'treino')
+val_dir = os.path.join('kaggle', 'valid')
 
 batch_size = 10
 num_epochs = 10
